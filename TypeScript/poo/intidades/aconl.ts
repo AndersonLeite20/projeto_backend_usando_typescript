@@ -1,5 +1,3 @@
-
-
 //atributos
 export abstract class acount {
     private readonly _nunberOFAcount:number
@@ -7,6 +5,7 @@ export abstract class acount {
     private _amount:number
 
     //construtor
+    
     constructor(
         nunberOFAcount: number,
         nomeOfholder: string,
